@@ -7,10 +7,10 @@ development:
   adapter: jdbcmysql
   encoding: utf8
   reconnect: false
-  database: Youniquemag1_development
+  database: ymag
   pool: 5
   username: root
-  password:
+  password: root123
   host: localhost
 
 # Warning: The database defined as "test" will be erased and
